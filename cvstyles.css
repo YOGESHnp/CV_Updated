@@ -1,0 +1,240 @@
+body {
+  margin: 0%;
+  background-color: #d7fbf7;
+}
+
+.topnav {
+  width: 100%;
+  overflow: auto;
+  background-color: #05e3fb;
+}
+
+.topnav a {
+  float: left;
+  padding: 18px;
+  color: white;
+  text-decoration: none;
+  font-size: 19px;
+  justify-content: center;
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+.home {
+  box-sizing: border-box;
+  display: flex;
+}
+
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.left {
+  width: 80%;
+}
+
+.left h1 {
+  line-height: 100%;
+  text-align: center;
+}
+
+.left h2 {
+  line-height: 12.5%;
+  font-weight: normal;
+  text-align: center;
+}
+
+.left h3 {
+  line-height: 100%;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.left p {
+  margin: 0;
+  font-size: 16px;
+  text-align: center;
+}
+.right {
+  width: 20%;
+}
+
+.home:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column img {
+  width: 100%;
+  height: auto;
+  margin-top: 9px;
+}
+
+/*experience*/
+
+#experience {
+  box-sizing: border-box;
+}
+
+#experience h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.exp1 {
+  display: flex;
+  width: 100%;
+  
+}
+
+.colum-lef {
+  float: left;
+  width: 80%;
+  margin-left: 40px;
+  
+
+}
+
+.colum-lef::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.colum-lef h2 {
+  font-weight:normal;
+}
+
+.colum-lef span {
+  font-weight: bold;
+}
+
+.colum-lef h4 {
+  font-weight:lighter;
+  line-height: 2px;
+}
+
+.colum-righ h4 {
+  font-weight: lighter;
+}
+
+.colum-para {
+  margin-left: 40px;
+}
+
+
+/*Skills*/
+
+#skills h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.table table {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.table td {
+  text-align: center;
+}
+
+/*Cert*/
+
+#certifications h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.cert h2 {
+  margin-left: 25px;
+}
+
+.cert img {
+  width: 90%;
+  height: 700px;
+  margin-left: 25px;
+  background-size: 100% 100%;
+  
+}
+
+
+/*Education*/
+
+#education h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.engg {
+  margin-left: 25px;
+}
+
+.engg h2 {
+  font-weight: bold;
+  line-height: 6px;
+}
+
+.engg h3 {
+  font-weight: lighter;
+  line-height: 6px;
+}
+
+.hsc {
+  margin-left: 25px;
+}
+
+.hsc h2 {
+  margin-top: 40px;
+  font-weight: bold;
+  line-height: 6px;
+}
+
+.hsc h3 {
+  font-weight: lighter;
+  line-height: 6px;
+}
+
+.sslc {
+  margin-left: 25px;
+}
+.sslc h2 {
+  margin-top: 40px;
+  font-weight: bold;
+  line-height: 6px;
+}
+
+.sslc h3 {
+  font-weight: lighter;
+  line-height: 6px;
+}
+
+/*Personal Details*/
+
+#personaldetails h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.details span {
+  font-weight: bold;
+}
+
+.details h2 {
+  font-weight: normal;
+  margin-left: 25px;
+  line-height: 12px;
+}
+
+.declaration h2 {
+  font-weight: normal;
+  padding: 10px;
+  margin-left: 25px;
+}
