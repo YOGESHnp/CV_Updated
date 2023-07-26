@@ -268,25 +268,24 @@ a:hover {
   }
 
   div.left h1 {
-    margin-top: 28px;
-    font-size: 26px;
-    margin-left: 10px;
+    margin-top: 50px;
+    font-size: 24px;
     font-family: 'Spartan', sans-serif;
     color:#130F49;
   }
 
   div.left h2 {
     font-size: 16px;
-    margin-left: 24px;
+    margin-left: 10px;
     font-family: 'Spartan', sans-serif;
     color:#130F49;
   }
 
-  div.left h3 {
+  /*div.left h3 {
     font-size: 14px;
     text-align: left;
     margin-top: 22px;
-    margin-left: 27.5px;
+    margin-left: 24px;
     font-family: 'Spartan', sans-serif;
     color:#130F49;
     
@@ -299,7 +298,7 @@ a:hover {
     font-weight: none;
     font-family: 'Spartan', sans-serif;
     color:#130F49;
-  }
+  }*/
 
   div#home {
     padding: 10px;
@@ -319,7 +318,6 @@ a:hover {
     float: right;
     width:150px;
     height:150px;
-    margin-right: 10px;
     object-fit: cover;
     object-position: 4.5px -30px;
     border-radius: 100px 0 100px 100px;
@@ -341,7 +339,7 @@ a:hover {
   div.colum-lef h2 {
     font-size: medium;
     margin-top: 0;
-    margin-left: 20px;
+    margin-left: 10px;
     font-family: 'Spartan', sans-serif;
     color:#130F49;
   }
@@ -349,21 +347,21 @@ a:hover {
   div.colum-lef h4 {
     font-size: 14px;
     margin-top: 0;
-    margin-left: 20px;
+    margin-left: 10px;
     font-family: 'Spartan', sans-serif;
     color:#130F49;
   }
 
   div.colum-para h3 {
     font-size: 14px;
-    margin-left: 20px;
+    margin-left: 10px;
     font-family: 'Karla', sans-serif;
     color:#130F49;
   }
 
   div.colum-para1 h3 {
     font-size: 14px;
-    margin-left: 20px;
+    margin-left: 10px;
     font-family: 'Karla', sans-serif;
     color:#130F49;
   }
@@ -371,7 +369,6 @@ a:hover {
   div.colum-para ul {
     font-size: 14px;
     justify-content: center;
-    margin-left: 0;
     margin-right: 20px;
     font-family: 'Spartan', sans-serif;
     color: #130F49;
@@ -380,7 +377,6 @@ a:hover {
   div.colum-para1 ul {
     font-size: 14px;
     justify-content: center;
-    margin-left: 0;
     margin-right: 20px;
     font-family: 'Spartan', sans-serif;
     color:#130F49;
@@ -389,7 +385,7 @@ a:hover {
   div.colum-leff h2 {
     margin-top: 20px;
     font-size: medium;
-    margin-left: 20px;
+    margin-left: 10px;
     font-family: 'Spartan', sans-serif;
     color:#130F49;
   }
@@ -397,7 +393,7 @@ a:hover {
   div.colum-leff h4 {
     font-size: 14px;
     margin-top: 0;
-    margin-left: 20px;
+    margin-left: 10px;
     font-family: 'Spartan', sans-serif;
     color: #130F49;
   }
